@@ -31,6 +31,6 @@ The purpose of this work is to better understand the research landscape of Deep 
  <em>
  </br>
 This work is designed as the final project for "[Algorithms for Datascience](https://github.com/panahiparham/Algorithms-for-Data-Science-at-SBU)" class offered at Shahid Beheshti University in Fall 2021.</br>
-<b>Instructor</b>: [Dr. Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/)</br>
+<b>Instructor</b>: <a href="http://facultymembers.sbu.ac.ir/katanforoush/">Dr. Ali Katanforoush</a></br>
 <b>Student</b>: [Parham Mohammad Panahi](https://github.com/panahiparham) (student id: 400422166)
  </em>
