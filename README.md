@@ -21,7 +21,7 @@ The purpose of this work is to better understand the research landscape of Deep 
     - Implementing general multi-pass A-priori
  * Association Mining
     - Generating association rules
-    - Gerfect implications
+    - Perfect implications
  * Discussion
     - Confidence vs. Interestingness
     - Future work
