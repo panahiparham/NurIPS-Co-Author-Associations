@@ -14,18 +14,18 @@ The purpose of this work is to better understand the research landscape of Deep 
 
 ## Overview of Project
  * Extracting data
-  - Web scraping with beautifulSoup
-  - Hashing and storing paper and author names to disk
+    - Web scraping with beautifulSoup
+    - Hashing and storing paper and author names to disk
  * A-priori Algorithm for frequent pair mining
-  - Implementing 2 pass A-priori
-  - Implementing general multi-pass A-priori
+    - Implementing 2 pass A-priori
+    - Implementing general multi-pass A-priori
  * Association Mining
-  - Generating association rules
-  - Gerfect implications
+    - Generating association rules
+    - Gerfect implications
  * Discussion
-  - Confidence vs. Interestingness
-  - Future work
-  - Final note
+    - Confidence vs. Interestingness
+    - Future work
+    - Final note
 
 
  <em>
